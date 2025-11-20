@@ -6,11 +6,7 @@
 
 ## 📘 Overview
 
-**Psi-Continuum Cosmology (ΨCDM)** is a phenomenological extension of ΛCDM that introduces a **non-equilibrium response component** into the background expansion history:
-
-\[
-\Omega_\Psi(z) = \Omega_{\Psi,0} + \varepsilon_0 (1+z)^n .
-\]
+**Psi-Continuum Cosmology (ΨCDM)** is a phenomenological extension of ΛCDM that introduces a **non-equilibrium response component** into the background expansion history.
 
 The goal is **not** to replace ΛCDM. Instead, ΨCDM quantifies how much flexibility exists in late-time cosmology while remaining consistent with:
 
