@@ -1,0 +1,31 @@
+=============================================
+         Ψ-Continuum Final Test Summary
+=============================================
+
+Data sets used:
+  • H(z): 36 measurements
+  • Pantheon+: 1701 supernovae (diagonal-only version)
+
+Model Parameters:
+  ΛCDM:
+     H₀ = 68.00 km/s/Mpc
+     Ωₘ = 0.300
+
+  ΨCDM:
+     H₀     = 72.00 km/s/Mpc
+     ε₀     = 0.100
+     n      = 0.000
+     ΩΨ₀    = 0.000
+
+χ² contributions:
+  H(z):      Λ = 21.64     Ψ = 249.87
+  Pantheon+: Λ = 845.14     Ψ = 1084.22
+
+Total χ²:
+  ΛCDM total = 866.78
+  ΨCDM total = 1334.09
+  Δχ² (Ψ − Λ) = +467.306
+
+Interpretation:
+  ΛCDM provides a better fit by Δχ² = 467.31.
+=============================================

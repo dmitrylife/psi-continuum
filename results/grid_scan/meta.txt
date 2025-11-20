@@ -1,0 +1,33 @@
+===============================================
+         Ψ-Continuum Grid Scan Summary
+===============================================
+
+Parameter grid:
+  ε₀ range : [0.000, 0.300]  (31 steps)
+  n   range : [-2.000, 2.000]  (81 steps)
+  Minimization: H₀ optimized at each grid point
+
+Best-fit ΨCDM parameters (H(z) only):
+  ε₀*  = 0.3000
+  n*   = 1.0500
+  H₀*  = 72.0409  km/s/Mpc
+  χ²*  = 60.391
+
+ΛCDM baseline:
+  H₀*  = 68.0348  km/s/Mpc
+  χ²   = 21.636
+
+Comparison:
+  Δχ²(Ψ − Λ) = +38.755
+  → ΛCDM provides a better fit to H(z).
+
+Physical interpretation:
+  • Best-fit n > 1 implies a rapidly increasing Ψ-density
+    at higher redshift (non-standard behavior).
+
+Notes:
+  • Only H(z) dataset was used.
+  • No SN or BAO constraints included in this grid.
+  • This scan tests background expansion only.
+  • Perturbations and structure formation are not included.
+===============================================
