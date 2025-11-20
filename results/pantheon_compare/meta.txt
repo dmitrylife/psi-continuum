@@ -1,0 +1,34 @@
+===============================================
+     Pantheon+SH0ES — Two Fixed Models Test
+===============================================
+
+Models compared:
+  ΛCDM:
+     Ωₘ = 0.300
+     H₀ = 68.00 km/s/Mpc
+     Best-fit M = -28.56490
+
+  ΨCDM:
+     Ωₘ   = 0.300
+     ε₀   = 0.100
+     n    = 0.000
+     H₀   = 70.50 km/s/Mpc
+     Best-fit M = -29.51696
+
+Hubble-flow SNe used: 277 objects
+Degrees of freedom (analytic M): dof = 276
+
+χ² values:
+  ΛCDM: χ² = 242.376   (χ²/dof = 0.878)
+  ΨCDM: χ² = 243.014   (χ²/dof = 0.880)
+  Δχ² (Ψ − Λ) = +0.639
+
+Interpretation:
+  The two models are statistically indistinguishable in this SN-only test.
+  ΛCDM provides a slightly better fit by Δχ² = 0.64.
+
+Notes:
+  • ΨCDM parameters (ε₀, n) were fixed and NOT fitted to the SN data.
+  • H₀ values are model-specific but fully absorbed by analytic marginalization over M.
+  • This test isolates shape differences in μ(z), independent of absolute calibration.
+===============================================
