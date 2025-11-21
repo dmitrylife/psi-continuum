@@ -123,6 +123,7 @@ If you use this repository or figures in your research:
 
 **Dmitry Vasilevich Klimov (2025).
 *Psi-Continuum Cosmology: A Phenomenological Extension of ΛCDM Based on Non-Equilibrium Response and a Unified State Field.***
+Zenodo. https://doi.org/10.5281/zenodo.17666099
 https://psi-continuum.org
 
 ## 📮 Contact
