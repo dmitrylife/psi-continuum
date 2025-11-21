@@ -17,7 +17,7 @@ This repository contains:
 
 - fully reproducible Python analysis scripts
 - comparisons of ΛCDM and ΨCDM
-- a grid scan of \((\varepsilon_0, n)\)
+- a grid scan of (varepsilon_0, n)
 - automatically generated figures for the article
 - clean utility modules for cosmology, data loading, and χ² computation
 
@@ -59,7 +59,7 @@ psi-continuum/
 ## 🧪 Scientific Scripts
 
 ### **1. 01_fit_pantheonplus_sh0es.py**  
-Fits \( \Omega_m \) using Pantheon+SH0ES (Hubble-flow SN subset) with **full covariance** and analytic marginalization over \( M \).
+Fits (Omega_m) using Pantheon+SH0ES (Hubble-flow SN subset) with **full covariance** and analytic marginalization over (M).
 
 ### **2. 02_two_model_pantheon_sh0es.py**  
 Direct comparison of fixed ΛCDM vs ΨCDM models using the same SN dataset.
@@ -71,7 +71,7 @@ Combined comparison using:
 Outputs all figures used in the article.
 
 ### **4. 04_psi_grid_scan.py**  
-Performs a 2D scan over \((\varepsilon_0, n)\) while minimizing \( H_0 \) at each grid point.
+Performs a 2D scan over (varepsilon_0, n) while minimizing (H_0) at each grid point.
 
 ### **Optional (not included in publication):**  
 The BAO module is not used due to incomplete data from the author. Its release is planned for a future issue.
@@ -123,8 +123,8 @@ If you use this repository or figures in your research:
 
 **Dmitry Vasilevich Klimov (2025).
 *Psi-Continuum Cosmology: A Phenomenological Extension of ΛCDM Based on Non-Equilibrium Response and a Unified State Field.***
+
 Zenodo. https://doi.org/10.5281/zenodo.17666099
-https://psi-continuum.org
 
 ## 📮 Contact
 
